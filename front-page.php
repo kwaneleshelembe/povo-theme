@@ -5,7 +5,7 @@
 	<section>
 		<div class="text-center my-5">
 			<h1>Data Journalism Company</h1>
-			<p>Provo News is on a mission to visualize data about people, society and nature</p>
+			<p>Povo News is on a mission to visualize data about people, society and nature</p>
 		</div>
 
 		<div class="row justify-content-center">

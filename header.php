@@ -22,7 +22,7 @@
 				
 			</form>
 			<div class="col-4 text-center">
-				<img alt="Provo News" title="Provo News">
+				<img alt="Povo News" title="Povo News">
 			</div>
 			<div class="col-4 row justify-content-center">
 				<i class="fa-brands fa-twitter fa-xl col-1"></i>

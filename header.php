@@ -23,11 +23,15 @@
 			</form>
 			<div class="col-4 text-center">
 				<?php 
+
+				// defines logo image source
+				
 				if(function_exists("the_custom_logo")){
 					$custom_logo_id=get_theme_mod("custom_logo");
 					$logo=wp_get_attachment_image_src($custom_logo_id);
 				} 
 				?>
+				<!-- adds img src to img -->
 				<img src="<?php echo $logo[0]; ?>" alt="Povo News Logo" title="Povo News Logo" class="col-3">
 			</div>
 			<div class="col-4 row justify-content-center">
